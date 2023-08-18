@@ -1,0 +1,26 @@
+html,body{
+    height: 100%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div{
+    display: inline-flex;
+    list-style: none;
+    width: 294px;
+}
+li{
+    margin-left: 3%;
+}
+
+
+
+
+
+footer{
+    display: inline-flex;
+    top: 0px;
+    
+}
