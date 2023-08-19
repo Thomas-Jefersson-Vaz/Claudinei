@@ -16,11 +16,19 @@ li{
 }
 
 
-
+    
 
 
 footer{
     display: inline-flex;
-    top: 0px;
-    
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+footer p {
+    margin: 0px;
 }
