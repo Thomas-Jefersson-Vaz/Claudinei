@@ -9,14 +9,11 @@ header{
 div{
     display: inline-flex;
     list-style: none;
-    width: 294px;
+    width: 320px;
 }
 li{
     margin-left: 3%;
 }
-
-
-    
 
 
 footer{
