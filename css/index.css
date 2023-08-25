@@ -69,10 +69,17 @@ table {
     text-indent: initial;
     border-spacing: 2px;
     display: table;
-    border-collapse: separate;
     box-sizing: border-box;
     text-indent: initial;
     border-color: rgb(255, 0, 0);
     border-width: 3px;
     
 }
+td.tddata2, td.tddata {
+    border: 1px solid #000000;
+
+}
+img{
+    width: 10%;
+}
+
